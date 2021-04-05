@@ -14,5 +14,6 @@ At the end of the day, I usually want to watch a short episode of something funn
 ### Brooklyn Nine-Nine
 ### Bob's Burgers
 ### Modern Family
+### Schitt's Creek
 
 
