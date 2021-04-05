@@ -24,6 +24,10 @@ feature:
   icon: wave-square
   icon_pack: fas
   name: DSP
+- description: Strong Experience in Matlab, C++, and CUDA 
+  icon: code
+  icon_pack: fas
+  name: Code  
 - description: Runs Daily
   icon: running
   icon_pack: fas
