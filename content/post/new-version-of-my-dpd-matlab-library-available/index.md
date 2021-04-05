@@ -4,7 +4,7 @@ date: 2019-09-29T23:00:03.253Z
 draft: false
 featured: false
 authors:
-  -admin
+  - admin
 tags:
   - DPD
   - MATLAB

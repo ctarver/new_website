@@ -4,7 +4,7 @@ date: 2019-10-08T22:57:27.483Z
 draft: false
 featured: false
 authors:
- -admin
+ - admin
 tags:
   - Free5GC
 image:
