@@ -4,7 +4,7 @@ date: 2018-07-21T23:16:57.038Z
 draft: false
 featured: false
 authors:
-  - Chance Tarver
+  - admin
 tags:
   - SharedSpectrum
   - CBRS
