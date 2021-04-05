@@ -1,6 +1,7 @@
 ---
 title: Chance Tarver
-role: Professor of Artificial Intelligence
+role: PhD Candidate
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Digital Predistortion
@@ -24,8 +25,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/chance-tarver-93299466/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Rice University
+    url: https://eceweb.rice.edu/
+  - name: Samsung Research America, SMI Lab
+    url: https://www.sra.samsung.com/
 education:
   courses:
     - course: MS in Electrical and Computer Engineering
