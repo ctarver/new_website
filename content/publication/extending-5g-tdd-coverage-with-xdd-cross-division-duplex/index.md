@@ -1,5 +1,16 @@
 ---
 title: "Extending 5G TDD Coverage with XDD: Cross Division Duplex"
+authors:
+  - Hyoungju Ji
+  - Younsun Kim
+  - Khurram Muhammad
+  - admin
+  - Matthew Tonnemacher
+  - Taehyoung Kim
+  - Jinyoung Oh
+  - Bin Yu
+  - Gary Xu
+  - Juho Lee
 publication_types:
   - "2"
 doi: 10.1109/ACCESS.2017.DOI
