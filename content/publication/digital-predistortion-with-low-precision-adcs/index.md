@@ -3,7 +3,7 @@ title: Digital predistortion with low-precision ADCs
 publication_types:
   - "1"
 authors:
-  - Chance Tarver
+  - admin
   - Joseph R. Cavallaro
 doi: 10.1109/ACSSC.2017.8335381
 publication: 2017 51st Asilomar Conference on Signals, Systems, and Computers

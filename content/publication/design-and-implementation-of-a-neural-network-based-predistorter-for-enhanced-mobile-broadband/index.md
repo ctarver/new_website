@@ -4,7 +4,7 @@ title: Design and Implementation of a Neural Network Based Predistorter for
 publication_types:
   - "1"
 authors:
-  - chance-tarver
+  - admin
   - Alexios Balatsoukas-Stimming
   - joseph-r-cavallaro
 doi: 10.1109/SiPS47522.2019.9020606

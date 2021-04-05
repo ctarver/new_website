@@ -5,7 +5,7 @@ summary: ""
 draft: false
 featured: false
 authors:
-  - Chance Tarver
+  - admin
 tags:
   - DPD
   - CBRS

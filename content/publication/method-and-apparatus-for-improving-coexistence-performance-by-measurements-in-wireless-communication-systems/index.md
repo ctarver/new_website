@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Pengda Huang
   - Hao Chen
-  - Chance Tarver
+  - admin
   - Boon Loong Ng
   - Vikram Chandrasekhar
   - Jianzhong Zhang

@@ -4,7 +4,7 @@ date: 2018-12-07T00:19:25.656Z
 draft: false
 featured: false
 authors:
-  - Chance Tarver
+  - admin
 tags:
   - CBRS
 image:

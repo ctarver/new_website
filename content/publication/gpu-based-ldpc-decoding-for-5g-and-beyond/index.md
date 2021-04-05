@@ -3,7 +3,7 @@ title: GPU-Based, LDPC Decoding for 5G and Beyond
 publication_types:
   - "2"
 authors:
-  - Chance Tarver
+  - admin
   - Matthew Tonnemacher
   - Hao Chen
   - Jianzhong Zhang

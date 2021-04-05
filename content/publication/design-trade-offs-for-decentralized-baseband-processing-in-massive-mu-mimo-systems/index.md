@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Kaipeng Li
   - James McNaney
-  - Chance Tarver
+  - admin
   - Oscar Castañeda
   - Charles Jeon
   - Joseph R. Cavallaro

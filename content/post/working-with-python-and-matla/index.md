@@ -4,7 +4,7 @@ date: 2019-01-15T00:06:40.233Z
 draft: false
 featured: false
 authors:
-  - Chance Tarver
+  - admin
 tags:
   - Workflow
   - Python

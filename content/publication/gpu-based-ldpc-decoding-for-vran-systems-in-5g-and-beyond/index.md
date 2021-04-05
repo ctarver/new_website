@@ -3,7 +3,7 @@ title: GPU-Based LDPC Decoding for vRAN Systems in 5G and Beyond
 publication_types:
   - "1"
 authors:
-  - Chance Tarver
+  - admin
   - Matthew Tonnemacher
   - Hao Chen
   - Jianzhong Charlie Zhang

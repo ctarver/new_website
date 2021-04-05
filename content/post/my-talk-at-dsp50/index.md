@@ -3,6 +3,8 @@ title: My Talk at DSP50
 date: 2019-05-06T22:53:50.565Z
 draft: false
 featured: false
+authors:
+  - admin
 tags:
   - Talks
   - DSP

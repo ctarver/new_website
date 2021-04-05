@@ -4,7 +4,7 @@ date: 2019-08-02T23:20:28.951Z
 draft: false
 featured: false
 authors:
-  - Chance Tarver
+  - admin
 tags:
   - DPD
   - MIMO

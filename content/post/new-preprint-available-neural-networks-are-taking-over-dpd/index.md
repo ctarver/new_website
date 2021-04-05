@@ -4,7 +4,7 @@ date: 2019-07-09T23:09:35.714Z
 draft: false
 featured: false
 authors:
-  - Chance Tarver
+  - admin
 tags:
   - DPD
   - MachineLearning

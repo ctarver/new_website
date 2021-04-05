@@ -3,6 +3,8 @@ title: New Version of my DPD Matlab Library Available
 date: 2019-09-29T23:00:03.253Z
 draft: false
 featured: false
+authors:
+  -admin
 tags:
   - DPD
   - MATLAB

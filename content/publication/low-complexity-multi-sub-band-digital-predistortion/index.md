@@ -3,7 +3,7 @@ title: Low-complexity, multi sub-band digital predistortion
 publication_types:
   - "2"
 authors:
-  - Chance Tarver
+  - admin
   - Mahmoud Abdelaziz
   - Lauri Anttila
   - Mikko Valkama

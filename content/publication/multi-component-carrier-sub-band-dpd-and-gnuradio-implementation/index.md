@@ -3,7 +3,7 @@ title: Multi component carrier, sub-band DPD and GNURadio implementation
 publication_types:
   - "1"
 authors:
-  - Chance Tarver
+  - admin
   - Mahmoud Abdelaziz
   - Lauri Anttila
   - Joseph R. Cavallaro

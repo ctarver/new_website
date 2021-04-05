@@ -4,7 +4,7 @@ date: 2019-10-10T23:13:07.725Z
 draft: false
 featured: false
 authors:
-  - Chance Tarver
+  - admin
 tags:
   - ProfessionalActivities
 image:

@@ -5,7 +5,7 @@ publication_types:
   - "1"
 authors:
   - Matthew Tonnemacher
-  - Chance Tarver
+  - admin
   - Vikram Chandrasekhar
   - Hao Chen
   - Pengda Huang

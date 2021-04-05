@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Matthew Tonnemacher
-  - Chance Tarver
+  - admin
   - Joseph R. Cavallaro
   - Joseph Camp
 doi: 10.1109/DySPAN.2019.8935859
