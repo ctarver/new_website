@@ -20,18 +20,27 @@ feature:
   icon: wave-square
   icon_pack: fas
   name: DSP
-- description: Strong Experience in Matlab, Python, C++, and CUDA with a belief in well documented and version controlled code.
+- description: Codes daily in Matlab, Python, C++, or CUDA with a belief in well documented and version controlled code.
   icon: code
   icon_pack: fas
-  name: Code  
-- description: Runs daily for fitness and sanity,
+  name: Code
+- description: Background in PHY and MAC systems for 4G, 5G, Wi-Fi, etc.
+  icon: wifi
+  icon_pack: fas
+  name: Wireless Systems
+- description: Believes in sharing knowledge openly for the good of everyone. 
+  icon: chalkboard-teacher
+  icon_pack: fas
+  name: Open Education
+- description: Runs daily for fitness and sanity.
   icon: running
   icon_pack: fas
   name: Running
-- description: Aeropress, french press, espresso, v60, etc
+- description: Coffee Snob. Uses aeropress, french press, espresso, v60, etc.
   icon: coffee
   icon_pack: fas
   name: Coffee
+  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
