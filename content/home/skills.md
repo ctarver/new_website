@@ -16,23 +16,19 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Fluent in best practices for Python.
-  icon: fab
-  icon_pack: brand
-  name: Python
-- description: Strong DSP Background
+- description: Able to implement custom, complex signal processing tasks such as predistorters.
   icon: wave-square
   icon_pack: fas
   name: DSP
-- description: Strong Experience in Matlab, C++, and CUDA 
+- description: Strong Experience in Matlab, Python, C++, and CUDA with a belief in well documented and version controlled code.
   icon: code
   icon_pack: fas
   name: Code  
-- description: Runs Daily
+- description: Runs daily for fitness and sanity,
   icon: running
   icon_pack: fas
   name: Running
-- description: Coffee Constantly
+- description: Aeropress, french press, espresso, v60, etc
   icon: coffee
   icon_pack: fas
   name: Coffee
