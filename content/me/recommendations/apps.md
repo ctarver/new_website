@@ -10,3 +10,6 @@ weight: 2
 ## Web-based
 ### Roam Research
 The bidirectional links in Roam Research changed my note taking forever.
+
+### Readwise
+[Readwise](https://readwise.io/) collects all of your highlights from Kindle, Pocket, etc. in one place and provides a daily review. It also will export your highlights to another service such as Roam. This app was one that instantly became part of my workflow, and I highly recommend it. 
