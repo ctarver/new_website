@@ -2,9 +2,8 @@
 # Title, summary, and page position.
 linktitle: Neural Networks Techniques for Predistortion
 summary: How NNs can be used to reduce complexity and improve performance
-weight: 1
-icon: award
-icon_pack: fas
+weight: 4
+
 
 # Page metadata.
 title: Neural Networks Techniques for Predistortion

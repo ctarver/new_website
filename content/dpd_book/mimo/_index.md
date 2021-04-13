@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: MIMO DPD
 summary: Many antennas and how they behave
-weight: 1
+weight: 3
 icon: award
 icon_pack: fas
 
