@@ -3,8 +3,6 @@
 linktitle: MIMO DPD
 summary: Many antennas and how they behave
 weight: 3
-icon: award
-icon_pack: fas
 
 # Page metadata.
 title: MIMO DPD
